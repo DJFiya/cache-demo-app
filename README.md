@@ -68,12 +68,17 @@ A full-stack application that estimates the resale price of clothing items based
    npm install
    ```
 
-3. Start the React development server:
+3. Create a `.env.local` file in the `frontend` folder and add the following:
+   ```plaintext
+   BACKEND_URL=http://localhost:5000/api/estimate
+   ```
+
+4. Start the React development server:
    ```bash
    npm run dev
    ```
 
-4. The frontend will run at `http://localhost:3000`.
+5. The frontend will run at `http://localhost:3000`.
 
 ---
 ## Approach

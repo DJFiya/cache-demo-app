@@ -1,0 +1,29 @@
+{
+    "brandTiers": {
+      "Gucci": 0.6,
+      "Prada": 0.65,
+      "Louis Vuitton": 0.7,
+      "Chanel": 0.75,
+      "Calvin Klein": 0.45,
+      "Tommy Hilfiger": 0.4,
+      "Ralph Lauren": 0.45,
+      "Michael Kors": 0.35,
+      "Zara": 0.25,
+      "H&M": 0.2,
+      "Forever 21": 0.15,
+      "ASOS": 0.22,
+      "Other": 0.3
+    },
+    "categoryFactors": {
+      "Outerwear": 0.65,
+      "Dresses": 0.55,
+      "Jeans": 0.5,
+      "Tops": 0.4,
+      "T-shirts": 0.3,
+      "Skirts": 0.45,
+      "Sweaters": 0.5,
+      "Activewear": 0.45,
+      "Other": 0.4
+    },
+    "formula": "originalPrice * brandTier * categoryFactor"
+  }

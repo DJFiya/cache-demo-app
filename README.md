@@ -106,7 +106,7 @@ A full-stack application that estimates the resale price of clothing items based
 
 ## Demo Video
 
-[![Watch the Demo Video](https://img.youtube.com/vi/DjN2feHpBRQ/0.jpg)](https://youtu.be/DjN2feHpBRQ)
+[![Watch the Demo Video]](https://youtu.be/DjN2feHpBRQ)
 
 ---
 
